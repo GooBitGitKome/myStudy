@@ -1,0 +1,2 @@
+The x, y in the method of "test()" and those in the method of "movePoint()" are not same.
+The x, y in the movePoint means the parameter x, y of movePoint(int x, int y).

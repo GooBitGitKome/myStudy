@@ -1,0 +1,6 @@
+p1 and p2 are declared as new instance and objects respectively.
+So, p1==p2 and p1.equals(p2) are same though, 
+those are not meant that tha values are same,
+but theose class are same.That's why the results are false.
+
+

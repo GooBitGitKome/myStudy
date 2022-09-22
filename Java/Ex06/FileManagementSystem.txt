@@ -1,0 +1,7 @@
+⚫ Which methods are "overloaded" in the pre-modified program?
+add
+⚫ What are the abstract methods in the modified program? (Think of methods that files/directories have in
+common, but that differ in what they do.)
+abstract public String getName();
+abstract public void rename(String name);
+abstract public int getSize(); <- this method differes in File and Directory classes.

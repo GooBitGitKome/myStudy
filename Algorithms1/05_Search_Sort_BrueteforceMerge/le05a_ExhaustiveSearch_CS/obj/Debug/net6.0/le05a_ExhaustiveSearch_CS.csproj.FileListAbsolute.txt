@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/bin/Debug/net6.0/le05a_ExhaustiveSearch_CS
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/bin/Debug/net6.0/le05a_ExhaustiveSearch_CS.deps.json
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/bin/Debug/net6.0/le05a_ExhaustiveSearch_CS.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/bin/Debug/net6.0/le05a_ExhaustiveSearch_CS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/bin/Debug/net6.0/ref/le05a_ExhaustiveSearch_CS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/bin/Debug/net6.0/le05a_ExhaustiveSearch_CS.pdb
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/ref/le05a_ExhaustiveSearch_CS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.pdb
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithms/Basics/05_Search_Sort_BrueteforceMerge/le05a_ExhaustiveSearch_CS/obj/Debug/net6.0/le05a_ExhaustiveSearch_CS.genruntimeconfig.cache

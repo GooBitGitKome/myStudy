@@ -1,0 +1,31 @@
+public class FinallyClause {
+    static int count = 0;
+    public static void main(String[] args) {
+        while (true) {
+            try {
+                if (++count == 2) throw new Exception();
+                if (count == 3) break;
+                System.out.println("(" + count + ") No exception");
+            } catch (Exception e) {
+                System.out.println("(" + count + ") Exception occurred");
+            } finally {
+                System.out.println("(" + count + ") in finally clause");
+            }
+        } // end while
+        System.out.println("Main program ends");
+    } 
+}
+
+// 1. Why does the program print the two lines below?
+//  (2) Exception occurred
+// That is why:
+// "in the twice loop, first add one to the count veriables, next throw exception ,then move to the catch clause then output the output.
+//  (2) in finally clause
+// this finally clause is always going to excuted, so the line is outputted
+// 2. Why does the program print the line below (It looks like the program does not print the line because of the break statement)?
+//  (3) in finally clause
+// in the third loop, after adding one to count, the line 8 is implemented, then move to finally clause(because finally is allways going to be implemented).
+// This is why "(3) in fainally clause" was implemented.
+// 3. Why does the program print the line below?
+//   Main program ends
+//just because the output is witten after the try clause. It implements as long as without stopping the program

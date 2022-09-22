@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/bin/Debug/net6.0/Matrix-chain_Multiplication
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/bin/Debug/net6.0/Matrix-chain_Multiplication.deps.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/bin/Debug/net6.0/Matrix-chain_Multiplication.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/bin/Debug/net6.0/Matrix-chain_Multiplication.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/bin/Debug/net6.0/ref/Matrix-chain_Multiplication.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/bin/Debug/net6.0/Matrix-chain_Multiplication.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/ref/Matrix-chain_Multiplication.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Matrix-chain_Multiplication/obj/Debug/net6.0/Matrix-chain_Multiplication.genruntimeconfig.cache

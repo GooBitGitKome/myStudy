@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "le05a_ExhaustiveSearch_CS/1.0.0": {
+        "runtime": {
+          "le05a_ExhaustiveSearch_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "le05a_ExhaustiveSearch_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

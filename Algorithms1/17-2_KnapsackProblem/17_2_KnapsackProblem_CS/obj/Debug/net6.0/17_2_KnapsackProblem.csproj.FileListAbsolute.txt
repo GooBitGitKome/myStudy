@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/bin/Debug/net6.0/17_2_KnapsackProblem
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/bin/Debug/net6.0/17_2_KnapsackProblem.deps.json
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/bin/Debug/net6.0/17_2_KnapsackProblem.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/bin/Debug/net6.0/17_2_KnapsackProblem.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/bin/Debug/net6.0/ref/17_2_KnapsackProblem.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/bin/Debug/net6.0/17_2_KnapsackProblem.pdb
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/ref/17_2_KnapsackProblem.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.pdb
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/17_2_KnapsackProblem/obj/Debug/net6.0/17_2_KnapsackProblem.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/bin/Debug/net6.0/Fibonach
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/bin/Debug/net6.0/Fibonach.deps.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/bin/Debug/net6.0/Fibonach.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/bin/Debug/net6.0/Fibonach.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/bin/Debug/net6.0/ref/Fibonach.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/bin/Debug/net6.0/Fibonach.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/ref/Fibonach.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/DP/Fibonach/obj/Debug/net6.0/Fibonach.genruntimeconfig.cache

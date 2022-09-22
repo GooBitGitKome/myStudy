@@ -1,0 +1,16 @@
+class PrePostDemo {
+   public static void main(String[] args){
+        int i = 3;
+        i++;
+        System.out.println(i); // "4" 
+        ++i;
+        System.out.println(i); // "5" 
+        System.out.println(++i); // "6" 
+        System.out.println(i++); // "6" 
+        System.out.println(i); // "7"
+    } 
+}
+
+There is difference between i++ and ++i: 
+First, i++ is meant that "i++" is implemented, after any other statement on the same line. have been implemented.
+Then, ++i means that when entering the line where "++i" is in, first the increment have happend. Then the whole line is implemented.

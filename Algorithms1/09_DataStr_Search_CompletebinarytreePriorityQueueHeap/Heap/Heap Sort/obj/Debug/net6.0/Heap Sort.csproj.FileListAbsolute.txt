@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/bin/Debug/net6.0/Heap Sort
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/bin/Debug/net6.0/Heap Sort.deps.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/bin/Debug/net6.0/Heap Sort.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/bin/Debug/net6.0/Heap Sort.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/bin/Debug/net6.0/ref/Heap Sort.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/bin/Debug/net6.0/Heap Sort.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/ref/Heap Sort.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Heap Sort/obj/Debug/net6.0/Heap Sort.genruntimeconfig.cache

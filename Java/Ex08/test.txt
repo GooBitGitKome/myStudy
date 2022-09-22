@@ -1,0 +1,15 @@
+7 18 200 8 Honda
+7 18 200 8 Toyota
+7 18 200 8 Nissan
+7 18 200 8 Subaru
+5 16 250 4 Subaru
+7 19 240 9 Subaru
+6 18 180 3 Toyota
+5 16 250 4 Toyota
+6 18 180 3 Honda
+5 16 250 4 Honda
+5 19 250 9 Honda
+12 22 180 3 Nissan
+13 23 80 3 Nissan
+8 23 540 10 Subaru
+8 23 400 11 Subaru

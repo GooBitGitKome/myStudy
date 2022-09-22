@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "le06b_Partition_PartsOfQuickSort_CS/1.0.0": {
+        "runtime": {
+          "le06b_Partition_PartsOfQuickSort_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "le06b_Partition_PartsOfQuickSort_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

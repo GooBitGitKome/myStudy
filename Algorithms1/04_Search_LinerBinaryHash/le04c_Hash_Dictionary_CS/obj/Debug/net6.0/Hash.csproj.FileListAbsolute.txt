@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/bin/Debug/net6.0/Hash
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/bin/Debug/net6.0/Hash.deps.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/bin/Debug/net6.0/Hash.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/bin/Debug/net6.0/Hash.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/bin/Debug/net6.0/ref/Hash.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/bin/Debug/net6.0/Hash.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/ref/Hash.dll
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.pdb
+/Users/Takeshi/workspace-takeshi/PG/C#/Algorithms/Hash/obj/Debug/net6.0/Hash.genruntimeconfig.cache

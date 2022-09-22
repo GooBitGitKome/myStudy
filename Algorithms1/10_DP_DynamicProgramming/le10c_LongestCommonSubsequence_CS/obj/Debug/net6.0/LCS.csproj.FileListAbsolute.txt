@@ -1,0 +1,15 @@
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/bin/Debug/net6.0/LCS
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/bin/Debug/net6.0/LCS.deps.json
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/bin/Debug/net6.0/LCS.runtimeconfig.json
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/bin/Debug/net6.0/LCS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/bin/Debug/net6.0/ref/LCS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/bin/Debug/net6.0/LCS.pdb
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.csproj.AssemblyReference.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.AssemblyInfoInputs.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.AssemblyInfo.cs
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.csproj.CoreCompileInputs.cache
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/ref/LCS.dll
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.pdb
+/Users/Takeshi/workspace-takeshi/-Templates_and_Libraries/Algorithm/C#/DP/LCS/obj/Debug/net6.0/LCS.genruntimeconfig.cache

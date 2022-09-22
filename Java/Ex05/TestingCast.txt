@@ -1,0 +1,10 @@
+⚫ Which of the above 1. - 6. operations are implicit casts? 
+2
+5
+⚫ Which of the operations in 1.- 6. above are explicit casts?
+3
+⚫ Why can an object reference of type Point refer to an object of type MovingPoint? 
+Point class is superclass of MovingPoint class
+⚫ In operation 3., can we assign o2 to o3 without casting and why?
+It cannot, because compiler can not understand whether o2 as Point class has children or subclasses or not.
+So we need explicitly to cast super class to sub class.

@@ -1,0 +1,4 @@
+Even after the inserting of the code of "p = new Point(0, 0);" to movePoint(Point p), the out put will be "(x, y) = (100, 120)" 
+Because that first the parameter p know the domain of the variables's point, 
+the parameter p is changed into the new domain of class Point, 
+besides that, the variables point and the parameter p are not involved each other after the change.

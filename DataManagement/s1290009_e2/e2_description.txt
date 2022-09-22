@@ -1,0 +1,38 @@
+Brief Description:
+-COLOR:
+Green: Human
+Purple: Things 
+
+-SHAPE:
+Ellipse: Attributes
+Rectangle: Entity
+Rhombus: Action
+
+-Entity description:
+Passenger :
+Attributes:
+Name
+Surname
+Email
+Actions:
+Books for Flight
+
+Airline company:
+Actions:
+Has flights(more than zero), Airport(at least one) and Airplane(at least one).
+
+Airplane:
+Attributes:
+has a unique model number, registration number and capacity of passengers.
+About the capacity of passengers has three weak attributes, which are number of Business class, economy class, first class. Because those are not same seats.
+
+Airport:
+Attributes:
+has a unique airport code and location info.
+
+Flight:
+has an unique:
+Flight code
+Departure airport, gate and date.
+Destination airport, gate, date.
+About departure date and arrival, those has a weak attribute, time. Because the time can has meaning on only the departure date or arrival date.
